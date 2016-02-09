@@ -2,7 +2,6 @@
   "name": "generator-bb16-scheme",
   "version": "0.2.0",
   "description": "Creating scheme for base16-builder",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
