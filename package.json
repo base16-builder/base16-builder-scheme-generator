@@ -2,23 +2,6 @@
   "name": "generator-bb16-scheme",
   "version": "0.2.0",
   "description": "Creating scheme for base16-builder",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": {
-    "name": "Alois de Gouvello",
-    "email": "aloisdg@gmail.com",
-    "url": "https://github.com/aloisdg"
-  },
-  "license": "MPL-2.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aloisdg/generator-bb16-scheme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/aloisdg/generator-bb16-scheme/issues"
-  },
-  "homepage": "https://github.com/aloisdg/generator-bb16-scheme#readme",
   "files": [
     "app",
     "router"
@@ -30,6 +13,7 @@
   "keywords": [
     "yeoman-generator",
     "base16-builder",
+    "base16",
     "bb16"
   ],
   "dependencies": {
@@ -37,12 +21,10 @@
     "title-case": "^1.1.2",
     "yeoman-generator": "^0.20.3"
   },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
+  "author": {
+    "name": "Alois de Gouvello",
+    "email": "aloisdg@gmail.com",
+    "url": "https://github.com/aloisdg"
   },
-  "devDependencies": {
-    "cz-conventional-changelog": "^1.1.5"
-  }
+  "license": "MPL-2.0"
 }
