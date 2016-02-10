@@ -15,12 +15,12 @@ In your shell, run
 
     yo bb16-scheme
 
-Open `scheme.yml`.
-Replace all hexadecimal colors with yours.
-Keep in mind that you MUST not add the '#'.
-Keep in mind that you MUST use lowercase.
-Test your scheme.
-Enjoy.
+* Open `scheme.yml`.
+* Replace all hexadecimal colors with yours.
+* Keep in mind that you MUST not add the '#'.
+* Keep in mind that you MUST use lowercase.
+* Test your scheme.
+* Enjoy.
 
 ## Share
 
