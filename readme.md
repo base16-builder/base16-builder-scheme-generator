@@ -3,7 +3,7 @@
 ## Summary
 
 This project is a yeoman generator.
-It help you to create schemes for base16-builder
+It helps you to create schemes for base16-builder.
 
 ## Install
 
