@@ -26,5 +26,13 @@
     "email": "aloisdg@gmail.com",
     "url": "https://github.com/aloisdg"
   },
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.1.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
