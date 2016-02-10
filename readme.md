@@ -34,4 +34,4 @@ This is my first ever yeoman generator. Keep in mind that I am beginner here. Fe
 
 ## License
 
-MIT
+MPL-2.0
